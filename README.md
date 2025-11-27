@@ -38,6 +38,9 @@ To create a console-based program that allows the user to:
 
 A custom data type to store student information:
 
+ ![Image Alt](https://github.com/barun0045/details.c-project/blob/569fd2edc7fe1f24b6998c7e5b54d68aaa42440b/Screenshot%202025-11-24%20192310.png)
+
+
 ```c
 struct Student {
     int rollNumber;
